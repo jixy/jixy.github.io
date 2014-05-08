@@ -4,4 +4,4 @@ Category:Life
 Author:jixy
 
 ###
-大家好，我叫jixy。haha
+hello,大家好，我叫jixy。haha
