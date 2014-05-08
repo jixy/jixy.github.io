@@ -10,6 +10,8 @@ GITHUB_URL = 'https://github.com/jixy'
 ARCHIVES_URL = 'archives.html'
 ARTICLE_URL = 'pages/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARCHIVE_SAVE_AS = 'pages/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+
+RELATIVE_URLS = True
 TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = u'zh'
